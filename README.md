@@ -22,6 +22,8 @@ Le sujet original de notre projet se trouve dans **WB_analyse_logs.pdf**.
 
 # *À noter*
 
+* nous avons utilisé le logiciel PyCharm pour coder
+
 * vous pouvez trouver le lien de la base de donnée à la toute fin de notre rapport
 
 * si vous souhaitez lancer le programmes, il faut modifier les lignes suivantes pour éviter les erreurs:
