@@ -4,7 +4,7 @@ Voici le projet Bot-IOT que nous avons du accomplit le semestre précédent éta
 
 ## description des fichiers
 * **GroupEverything.py** : ce fichier regroupe toute les fonctions des autres fichier python
-* **DataManip.py** : retir, manipule et traite le dataFrame que nous allons utiliser pour les models ML
+* **DataManip.py** : retirer, manipuler et traiter la dataFrame que nous allons utiliser pour les models ML
 
 afin de trouver les meilleurs paramètres pour nos modèles ML, nous avons utilisé RandomSearchCV ( et non GridSearchCV du à la consommation demandé et aux conditions dans lequel nous étions )
 * Fichiers ML 
