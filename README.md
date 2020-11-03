@@ -22,5 +22,7 @@ Le sujet original de notre projet se trouve dans **WB_analyse_logs.pdf**.
 
 # *À noter*
 
-si vous souhaitez lancer le programmes, il faut modifier les lignes suivantes pour éviter les erreurs:
-**DataManip.py** : lignes 32, 36, 45, 48 (localisation de la base de donnée)
+* vous pouvez trouver le lien de la base de donnée à la toute fin de notre rapport
+
+* si vous souhaitez lancer le programmes, il faut modifier les lignes suivantes pour éviter les erreurs:
+ * **DataManip.py** : lignes 32, 36, 45, 48 (localisation de la base de donnée)
