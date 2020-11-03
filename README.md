@@ -14,5 +14,7 @@ afin de trouver les meilleurs paramètres pour nos modèles ML, nous avons utili
   * Neural_Network.py : utilisation des réseaux de neurones
 
 Pour plus d'information sur notre dermache, veuillez visiter notre rapport de projet **Project_Report.pdf**.
+
 Les recherches sur le projet à partir duquel nous nous sommes appuyés se trouvent dans **dataset_summary.pdf**.
+
 Le sujet original de notre projet se trouve dans **WB_analyse_logs.pdf**.
