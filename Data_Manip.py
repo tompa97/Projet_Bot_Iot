@@ -134,7 +134,6 @@ def Undersamplingpart(X, y, UnderSamplingMethod):
     print("make dataset more realistic as there are supposed to less attacks than normal signals")
     UnderSampleMethod = UnderSamplingMethod
     Standardised_VarianceFiltered_undeSampled_X, y = UnderSampleMethod.fit_resample(X, y)
-    # Standardised_VarianceFiltered_undeSampled_X = Standardised_VarianceFiltered_X
 
     (unique, counts) = np.unique(y, return_counts=True)
     frequencies = np.asarray((unique, counts)).T
