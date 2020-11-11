@@ -112,7 +112,7 @@ def Feature_Selection(dataframe_, condition):
     # else:
     #     y = dataframe[["attack","category", "subcategory"]].values
 
-    print("Select features from the most important")
+    print("Select features from the most important depending on their variance")
     feature_selector = VarianceThreshold()
     VarianceFiltered_X = feature_selector.fit_transform(X)
 
